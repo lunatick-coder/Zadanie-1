@@ -1,0 +1,6 @@
+{
+  "name": "Luna 3D: Interactive Lunar Explorer",
+  "description": "An interactive 3D model of the Moon with orbital zoom, spin controls, Apollo landing sites, prominent craters, lighting phases, and topographic elevation analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
